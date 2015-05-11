@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Book Reviews</title>
+	<link rel="stylesheet" type="text/css" href="CSS/main.css">
+	<script src="script/localize.js"></script>
+</head>
+
+<body>
+	<div class="header">
+	<h1>
+		<img src="images/paw.png" width="60px"/>
+		<span id="title"></span>
+	</h1>
+	<nav>
+		<ul class="header-options">
+			<li><a class="localized-link" href="about.html" id="about"></a></li>
+			<li><a class="localized-link" href="american_authors.html" id="american_authors"></a></li>
+			<li><a class="localized-link" href="brazilian_authors.html" id="brazilian_authors"></a></li>
+			<li><a class="localized-link" href="international_authors.html" id="international_authors"></a></li>
+		</ul>
+	</nav>
+	</div>
+	<img class="image-index" src="images/books.jpg" width="880px" />
+
+	<p id="body"></p>
+	<p id="email"></p>
+
+
+
+	<div class="language-selector">
+		<ul>
+			<li><a href="?l=en">English</a></li>
+			<li><a href="?l=pt_br">Portugu&ecirc;s</a></li>
+		</ul>
+	</div>
+	<script>localizePage();</script>
+	</body>
+</html>

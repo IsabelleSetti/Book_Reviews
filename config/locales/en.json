@@ -1,0 +1,56 @@
+{
+	"title": "Book Reviews",
+
+	"about": "About",
+
+	"american_authors": "American Authors",
+
+	"brazilian_authors": "Brazilian Authors",
+
+	"international_authors": "International Authors",
+
+
+	"body": "I love books as much as you and because of this I decided to share my opinion and insights on books that affected my life",
+
+	"email": "Would you like to see a specific book on our website: <a href='mailto:isabellesetti@gmail.com'>Click here</a> to send an email with your suggestions.",
+
+	"merlin": "Merlin is a ten years old very smart cat who loves to read, eat and sleep. Because he loves books so much, he decided to share his readings with everyone.",
+
+	"scliar": "Max and The Cats, by Moacyr Scliar",
+
+	"review1": "Max is forced to leave Nazi Germany after he and his friend, Harald, have an affair with Frida, whose husband denounces them to the secret police for inappropriate behaviour. He flees the country on the Germania, a ship bound for Santos, Brazil, with zoo animals in the hold and very few passengers, but the captain is involved in an insurance scam, and the ship is deliberately sunk. Max finds a dinghy on board with some provisions, and manages to lower it into the sea. The next day the sun is beating down on him, and he fears for his life without cover. He reaches out for a large closed box that has fallen from the ship next to him, hoping he can use it for shelter, but when he opens the padlock, something jumps out of the box and into the dinghy, knocking him unconscious. When he opens his eyes, '[t]he howl that he let out resounded in the air.' Sitting on the bench in front of him is a jaguar.<br>Max and the jaguar are stranded on the dinghy together for days, with only some basic provisions stored in the dinghy for emergencies. Max decides to start fishing to make sure the jaguar is not hungry, and briefly wonders whether he could train him. A shark approaches at one point, but the jaguar bats it away, saving them both; Max is so grateful that he hugs the animal, then pulls himself away in horror. At the very moment Max decides he cannot stand being alone with the jaguar anymore—after watching him tear a seagull apart—the jaguar appears to have a similar thought, and they both lunge at each other, colliding in midair. Max loses consciousness, and when he opens his eyes finds he has been rescued by a Brazilian ship. He asks about the jaguar, but the sailors assume he is delirious",
+
+	"machado": "Dom Casmurro, by Machado de Assis",
+
+	"review2": "Bento Santiago, the wildly unreliable narrator of Dom Casmurro, believes that he has been cuckolded—he suspects that his wife has cheated on him with his best friend and that her child is not his. Has Capitú, his love since childhood, really been unfaithful to him? Or is the evidence of her betrayal merely the product of a paranoid mind? First published in 1900, Dom Casmurro, widely considered Machado de Assis’s greatest novel and a classic of Brazilian literature, is a brilliant retelling of the classic adultery tale—a sad and darkly comic novel about love and the corrosive power of jealousy.",
+
+	"kafka": "The Trial, by Franz Kafka",
+
+	"review3":"One of Kafka's best known works, The Trial tells the story of a man arrested a prosecuted by authorities he cannot challenge for crimes he does not understand. The philosophical parable within the story reveals the unique roles to which we are each assigned, voluntarily or involuntarily, and the depths to which we must delve to achieve self-realization. As both a commentary on the over-bureaucratic systems of society and an exploration of the personal and spiritual needs of humanity, The Trial is as relevant today as it was a century ago.",
+
+	"murakami": "1Q84, by Haruki Murakami",
+
+	"review4": "The year is 1984 and the city is Tokyo.<br>A young woman named Aomame follows a taxi driver’s enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 —“Q is for ‘question mark.’ A world that bears a question.” Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled.<br>As Aomame’s and Tengo’s narratives converge over the course of this single year, we learn of the profound and tangled connections that bind them ever closer: a beautiful, dyslexic teenage girl with a unique vision; a mysterious religious cult that instigated a shoot-out with the metropolitan police; a reclusive, wealthy dowager who runs a shelter for abused women; a hideously ugly private investigator; a mild-mannered yet ruthlessly efficient bodyguard; and a peculiarly insistent television-fee collector.<br>A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwell’s—1Q84 is Haruki Murakami’s most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers.",
+
+	"physician": "The Physician, by Noah Gordon",
+
+
+	"review5": "In eleventh-century London, a child holds the hand of his dying mother and is terrified, aware something is taking her. Orphaned and given to an itinerant barber-surgeon, Rob Cole becomes a fast-talking swindler, peddling a worthless medicine. But as he matures, his strange gift—an acute sensitivity to impending death—never leaves him, and he yearns to become a healer.<br>Arab madrassas are the only authentic medical schools, and he makes his perilous way to Persia. Christians are barred from Muslim schools, but claiming he is a Jew, he studies under the world’s most renowned physician, Avicenna. How the woman who is his great love struggles against her only rival—medicine—makes a riveting modern classic.<br>The Physician is the first book in Noah Gordon’s Dr. Robert Cole trilogy, which continues with Shaman and concludes with Matters of Choice.",
+
+	"murder": "Murder Past Due, by Miranda James",
+
+	"review6": "Everyone in Athena, Mississippi, knows Charlie Harris, the good-natured librarian who walks his rescued Maine coon cat, Diesel, on a leash. They also know his former classmate-turned-famous bestselling novelist, Godfrey Priest.<br>But someone in Athena took Godfrey off the bestseller lists permanently, and with extreme prejudice. Now, Charlie and Diesel must browse through the history section of the town's past to find a killer.",
+
+	"image_kafka": "images/trial_en.jpg",
+
+	"image_murakami": "images/1q84_en.jpg",
+
+	"image_machado": "images/dom_casmurro_en.jpg",
+
+	"image_james": "images/murder_en.jpg",
+
+	"image_gordon": "images/the_physician_en.jpg",
+
+	"image_scliar": "images/max_en.jpg"
+
+}

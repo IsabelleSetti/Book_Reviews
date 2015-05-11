@@ -1,0 +1,88 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+* {
+	font-family: helvetica;
+	background-image: url("../images/back.jpg");
+}
+
+html {
+	text-align: center;
+}
+
+body {
+	margin: auto;
+	width: 900px;
+}
+
+h1 {
+	font-weight: bold;
+	font-family: helvetica;
+	font-size: 48pt;
+	color: black;
+	margin: 10pt solid;
+	padding-bottom: 0pt;
+	margin-bottom: 0pt;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+li {
+		list-style: none;
+		display: inline;
+		margin-left: 0;
+		padding-right: 10pt;
+		font-size: 16pt;
+		
+}
+
+
+ p {
+ 	text-align: left;
+ 	padding-left: 10pt;
+ }
+
+.header {
+	border-bottom: 3px black solid;
+}
+
+.language-selector {
+	border-top: 3px black solid;
+}
+
+ article {
+ 	border-bottom: 3px black solid;
+ 	padding-bottom: 20px;
+ 	clear: both;
+ 	float: left;
+ }
+
+ article img {
+ 	float: left;
+ }
+
+ article p {
+ 	overflow: hidden;
+ }
+
+ .author {
+ 	border-radius: 50%;
+ 	padding-top: 30px;
+
+ }
+
+ #merlin {
+ 	float: right;
+ }
+
+ .image-index {
+ 	padding-top: 20px;
+ }
+

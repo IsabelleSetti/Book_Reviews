@@ -1,0 +1,57 @@
+{
+	"title": "Resenhas de livros",
+
+	"about": "Sobre o autor",
+
+	"american_authors": "Autores americanos",
+
+	"brazilian_authors": "Autores brasileiros",
+
+	"international_authors": "Autores internacionais",
+
+
+	"body": "Amo livros tanto quanto vocês e por isso decidi compartilhar a minha opinião sobre livros que marcaram a minha vida.",
+
+	"email": "Gostaria de ver algum livro específico aqui: <a href='mailto:isabellesetti@gmail.com'>Clique aqui</a> para enviar um email com as suas sugestões",
+
+	"merlin": "Merlin é um gato muito esperto de dez anos que ama ler, comer e dormir. E por amar tanto assim os livros ele decidiu compartilhar as suas leituras com todo mundo.",
+
+	"scliar": "Max e os felinos, escrito por Moacyr Scliar",
+
+	"review1": "Max é um jovem alemão que passa sua infância e adolescência dominado pelo autoritarismo do pai, um peleteiro que tinha uma loja chamada “Ao Tigre de Bengala”, com um tigre empalhado que fora abatido por ele próprio. O único refúgio do garoto era o depósito da loja, em meio às peles de vários animais, incluindo os felinos – suas favoritas.<br>Aproximadamente aos 19 anos, Max se envolve com uma mulher chamada Frida, casada com um nazista e sua amizade com um jovem socialista o colocam na mira do regime nazista, sendo obrigado a fugir do país para o Brasil quando seu caso amoroso é descoberto.<br>Durante a viagem, o cargueiro em que viajava e que transportava animais de um zoológico/circo naufraga. Por sorte, ele consegue escapar em um escaler e, pensando em improvisar uma cabana para se proteger, ele encontra uma caixa dos destroços do navio, com um cadeado. Ao abrir, um enorme jaguar salta de dentro dessa caixa e vira a nova companhia de Max. Para não ser devorado pelo jaguar, Max é obrigado a pescar para ele.",
+
+	"machado": "Dom Casmurro, escrito por Machado de Assis",
+
+	"review2": "Bento Santiago, o narrador não confiável e descontrolado de Dom Casmurro, acredita que ele foi traído, ele suspeita que sua esposa o traiu com seu melhor amigo e que o filho não é dele. A Capitu, seu amor desde a infância, realmente foi infiel a ele? Ou é a evidência de sua traição meramente o produto de uma mente paranóica? Publicado pela primeira vez em 1900, Dom Casmurro, amplamente considerado um grande romance, de Machado de Assis é um clássico da literatura brasileira, é uma releitura brilhante do adultério clássico contando em um romance triste e humor negro sobre o amor e o poder corrosivo do ciúme.",
+
+	"kafka": "O Processo, escrito por Franz Kafka",
+
+	"review3":"Uma das obras mais conhecidas de Kafka, O Processo conta a história de um homem preso e processado pelas autoridades por crimes que ele não entende. A parábola filosófica dentro da história revela os papéis únicos a que estamos cada um atribuídos, voluntária ou involuntariamente e as profundidades a que temos de mergulhar para alcançar a auto-realização. Tanto como um comentário sobre os sistemas mais burocráticos da sociedade e uma exploração das necessidades pessoais e espirituais da humanidade, O Processo é tão relevante hoje como era há um século.",
+
+	"murakami": "1Q84, escrito por Haruki Murakami",
+
+	"review4":"O ano é 1984 ea cidade é Tóquio.<br>Uma jovem chamada Aomame segue enigmática uma sugestão de um motorista de taxi e começa a notar discrepâncias intrigantes do mundo ao seu redor. Ela entrou, ela percebe, em uma existência paralela, o que ela chama de 1Q84 - 'o Q é o equivalente a um ponto de interrogação. Para um mundo que tem uma pergunta'. Enquanto isso, um aspirante a escritor chamado Tengo assume um suspeito projeto de reescrever um livro. Ele torna-se tão envolvido com a obra e incomum autora que, em breve, sua vida anteriormente plácida começa a ser desvendada.<br>Como as narrativas de Aomame e Tengo convergem ao longo deste único ano, nós aprendemos das conexões profundas e emaranhadas que os unem cada vez mais: uma bela garota adolescente, disléxica com uma visão única; um culto religioso misterioso que instigou um tiroteio com a polícia metropolitana; uma viúva solitária, rica que administra um abrigo para mulheres vítimas de violência; um investigador particular horrivelmente feio; um guarda-costas bem educado ainda implacavelmente eficiente; e um coletor de taxa de televisão peculiarmente insistente.<br>Uma história de amor, um mistério, uma fantasia, um romance de auto-descoberta, uma distopia para rivalizar com George Orwell-1Q84 é o compromisso de Haruki Murakami ainda mais ambicioso: um best-seller instantâneo no Japão e uma tremenda façanha da imaginação de um de nossos escritores contemporâneos mais reverenciados.",
+
+	"physician": "O Físico, escrito por Noah Gordon",
+
+
+	"review5": "No século XI, em Londres, uma criança segura a mão de sua mãe moribunda e está apavorada, consciente de que algo a está levando. Órfão e dado a um cirurgião-barbeiro itinerante, Rob Cole torna-se um vigarista de fala rápida, vendendo um remédio inútil. Mas, como ele amadurece, seu dom - um estranha aguda sensibilidade para a morte iminente, nunca o deixa e ele anseia por tornar-se um curador.<br>Madrassas árabes são as únicas escolas médicas autênticas, e ele faz o seu caminho perigoso para a Pérsia. Os cristãos são impedidos de estudar em escolas muçulmanas, mas alegando que ele é um judeu, ele estuda com o médico mais famoso do mundo, Avicena. Como a mulher que é o seu grande amor e luta contra seu único rival da medicina, faz um clássico moderno fascinante.<br>O Físico é o primeiro livro da trilogia Dr. Robert Cole de Noah Gordon.",
+
+	"murder": "Murder Past Due, escrito por Miranda James",
+
+	"review6": "Todos de Athena, Mississippi, conhecem Charlie Harris, o bibliotecário bem-humorado que anda seu com o seu gato Maine coon resgatado Maine coon, Diesel em uma coleira. Eles também conhecem o seu ex-colega romancista de best-seller que recém ficou famoso, Godfrey Priest.<br>Mas alguém em Athena tirou Godfrey fora das listas dos mais vendidos permanentemente e com extremo preconceito. Agora, Charlie e Diesel devem percorrer a seção de história do passado da cidade para encontrar um assassino.",
+
+	"image_kafka": "images/trial_ptbr.jpg",
+
+	"image_murakami": "images/1q84_ptbr.jpg",
+
+	"image_machado": "images/dom_casmurro_ptbr.jpg",
+
+	"image_james": "images/murder_en.jpg",
+
+	"image_gordon": "images/the_physician_ptbr.jpg",
+
+	"image_scliar": "images/max_ptbr.jpg"
+
+
+}
